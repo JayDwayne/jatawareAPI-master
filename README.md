@@ -1,2 +1,2 @@
-# jatawareAPI-master
-A compact archive for aiding searches within the Jataware space
+# jatawareAPI
+A small repository for supporting search over Jataware space
